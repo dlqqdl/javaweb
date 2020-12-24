@@ -1,0 +1,11 @@
+#show-admin-table{width:90%;margin-left: 5%;text-align: center;table-layout: auto;border-collapse: collapse;}
+#show-hotel-table{width:90%;margin-left: 5%;text-align: center;table-layout: auto;border-collapse: collapse;}
+#show-driver-table{width:90%;margin-left: 5%;text-align: center;table-layout: auto;border-collapse: collapse;}
+#show-conferee-table{width:90%;margin-left: 5%;text-align: center;table-layout: auto;border-collapse: collapse;}
+#show-organizer-table{width:90%;margin-left: 5%;text-align: center;table-layout: auto;border-collapse: collapse;}
+div#mid-right-modifyPassword #modForm{margin-left: 20%;}
+table{border-collapse: collapse;}
+table td{height: 30px;}
+table tr:nth-child(odd){background-color: rgb(244, 244, 244);}
+table tr:hover{background-color: rgb(224,224,224);transform: scale(1.1);}
+table th{height: 30px;}
